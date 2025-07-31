@@ -1,4 +1,3 @@
-// pages/Home.tsx
 import React, { useEffect, useState } from 'react';
 import { useTheme } from '../context/ThemeContext';
 import { themes } from '../styles/themeStyles';
