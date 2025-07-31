@@ -1,37 +1,23 @@
-# 🧠 Theme Switcher React App
+# Multi Theme Switcher React App
 
 A responsive React + TypeScript web application demonstrating dynamic theming, page routing, API integration, and elegant UI components using Tailwind CSS.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌗 **Theme Switching** (3 unique themes with localStorage persistence)
-- 🎨 **Dark / Light / Colorful modes**
-- 📱 **Fully Responsive** (mobile, tablet, desktop)
-- ⚡️ **Framer Motion** for smooth transitions
-- 📦 **API Integration** with pagination using `dummyjson.com`
-- 🔀 **React Router** (Home, About, Contact)
-- 🧩 **Context API** for global state management
-- 🔐 **Security Best Practices** (input handling, secure defaults)
+- **Theme Switching** (3 unique themes with localStorage persistence)
+- **Dark / Light / Colorful modes**
+- **Fully Responsive** (mobile, tablet, desktop)
+- **Framer Motion** for smooth transitions
+- **API Integration** with pagination using `dummyjson.com`
+- **React Router** (Home, About, Contact)
+- **Context API** for global state management
+- **Security Best Practices** (input handling, secure defaults)
 
 ---
 
-## 📸 Preview
-
-Here’s how the app looks in action:
-
-### 🖥️ Desktop View
-
-![Theme 01](./assets/Screenshot_01.png)
-![Theme 02](./assets/Screenshot_02.png)
-![Theme 03](./assets/Screenshot_03.png)
-
-### 📱 Mobile View
-
-![Mobile Navigation](./assets/Screenshot_Responsive.png)
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -42,7 +28,7 @@ Here’s how the app looks in action:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 src/
 ├── assets/
@@ -64,7 +50,7 @@ src/
 
 ---
 
-## 🧪 Running Locally
+## Running Locally
 
 ```bash
 git clone https://github.com/MrDevansh/theme-switch-app.git
